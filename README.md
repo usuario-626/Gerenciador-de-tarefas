@@ -1,6 +1,6 @@
 # Gerenciador-de-tarefas
 Organize suas atividades e acompanhe seu progresso.
 
-Desenvolvido nas linguages HTML, CSS e Jvas Script.
+Desenvolvido nas linguages HTML, CSS e Javas Script.
 
 
